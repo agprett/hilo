@@ -1,0 +1,12 @@
+Hilo
+
+Description:
+The game generate a deck of 13 cards. You start with 300 points and then choose high or low. If you are correct, you get 100 points and if you are wrong you lose 75 points. If your points drop to 0, you lose. You can choose to quit before you lose all your points.
+
+Structure:
+The game runs on two class, the game class and the card class. The game class handles the game logic like points and high or low. The card class keeps track of card and potential values
+
+Software required:
+Python, random
+
+Programmer: Alec Prettyman
